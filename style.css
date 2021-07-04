@@ -1,0 +1,40 @@
+body {
+	background: skyblue;
+}
+
+
+.caption {
+	text-align: center;
+	color: green;
+	font-size: 30px;
+	font-weight: 20px;
+}
+
+.auth_panel{
+	margin: auto;
+	margin-top: 20px;
+ 	width: 15%;
+  	border:3px solid green;
+  	padding: 20px;
+  	border-radius: 2em;
+}
+
+.submit {
+	width: 355px;
+	height: 25px;
+
+}
+
+.textbox{
+	margin: 2px;
+	height: 20px;
+
+}
+
+.Errcaption
+{
+	text-align: center;
+	font-size: 75px;
+	color: red;
+
+}
